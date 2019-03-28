@@ -1,15 +1,7 @@
 # 301DaysOfCode.com
 
-### To Create a Code Journal
+## To Do
 
-1. Clone the repo
-1. cd j
-1. mkdir [yourUserName]
-1. cd [yourUserName]
-1. Create an index.html file.
+Clean up repo & remove uneeded pages, directories & assets to make the home page display.
 
-Then, submit a pull request; once merged your code jornal will appear @ https://301DaysOfCode.com/j/yourUserName
-
-### To Do
-
-Clean up repo & remove uneeded pages, directories & assets to make the home page display. 
+### [Design Document](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
